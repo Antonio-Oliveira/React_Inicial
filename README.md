@@ -1,2 +1,2 @@
 # React_Inicial
-Introdução a ReactJS. Curso da Digital Innovation One.
+Iniciando alguns dos principais conceitos do ReactJS.
